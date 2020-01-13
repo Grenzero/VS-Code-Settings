@@ -1,0 +1,39 @@
+{
+    "python.pythonPath": "C:\\Users\\MDCUadmin\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "editor.renderIndentGuides": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.formatOnSave": true,
+    "editor.fontSize": 15,
+    "[javascript]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Community Material Theme Ocean",
+    "explorer.openEditors.visible": 0,
+    "editor.fontFamily": "'Fira Code','Source Code Pro',Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "window.zoomLevel": 0,
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+    "[jsonc]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "php.suggest.basic": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "editor.tabSize": 3,
+    "git.autoRepositoryDetection": false,
+    "[json]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.minimap.enabled": false,
+    "explorer.confirmDragAndDrop": false,
+    "breadcrumbs.enabled": true,
+}
